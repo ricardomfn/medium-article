@@ -1,0 +1,38 @@
+.banner {
+  background-size: cover;
+  padding: 5px 0px;
+  color: white;
+  font-size: 38px;
+}
+
+.container {
+  width: 700px;
+  margin: 50px auto;
+
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+
+}
+
+a {
+  text-decoration: none;
+  background-color: coral;
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+a:hover{
+  color: rgb(47, 82, 255)
+}
